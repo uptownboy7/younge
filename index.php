@@ -45,7 +45,7 @@
       include $_SERVER['DOCUMENT_ROOT'].'/younge/include/nav.php';
 ?>
 
-<body> 
+<body>
     <div>
         <div id="layout">
             <!----헤더1 ---->
